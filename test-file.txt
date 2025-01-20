@@ -1,0 +1,1 @@
+Hello friends, is a example for a new branch with git
